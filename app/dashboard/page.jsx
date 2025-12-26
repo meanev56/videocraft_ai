@@ -2,10 +2,10 @@
 
 
 import React, { useEffect, useState } from "react";
-import VideoCreationOption from "./_components/VideoCreationOption";
+import VideoCreationOption from "./components/VideoCreationOption";
 import { useUser } from "@clerk/nextjs";
 import axios from "axios";
-import UserVideList from "./_components/UserVideoList";
+import UserVideList from "./components/UserVideoList";
 
 function Dashboard() {
   const [videoList, setVideoList] = useState([]);
