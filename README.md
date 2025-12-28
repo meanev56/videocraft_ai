@@ -2,7 +2,6 @@
 
 Welcome to **VideoCraft AI**, where **creativity meets artificial intelligence**! 🎬 With just a few clicks, you can create engaging short videos powered by cutting-edge AI technologies.  
 
-🌐 **Live Demo:** [https://videocraft-ai.vercel.app/](https://videocraft-ai.vercel.app/)  
 
 
 ## 🚀 **Features**  
@@ -32,7 +31,6 @@ VideoCraft AI is built with the following modern web tools:
 ---
 
 ## ▶️ **Live Demo & Video Walkthrough**  
-- 🌐 **Explore VideoCraft AI live**: [https://videocraft-ai.vercel.app/](https://videocraft-ai.vercel.app/)  
 
 2. **Install dependencies:**  
     ```bash
